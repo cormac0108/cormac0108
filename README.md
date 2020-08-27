@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I beleive Javascript is an excellent programming language. 
+I believe Javascript is an excellent programming language. 
 Sometimes i get lost in the cloud...🐱‍🏍
 
 
