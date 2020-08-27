@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-
+I beleive Javascript is an excellent programming language. 
+Sometimes i get lost in the cloud...🐱‍🏍
 
 
 - 🔭 I’m currently working on building a facial recognition app
